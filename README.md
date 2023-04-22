@@ -36,9 +36,9 @@ THEN I find a concise, descriptive title - [done]
 The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
-```
-Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. In the next Module we'll learn how to make elements responsive so that the web application is optimized for any screen size. It is NOT the scope of this exercise.
-```
+
+> Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. In the next Module we'll learn how to make elements responsive so that the web application is optimized for any screen size. It is NOT the scope of this exercise.
+
 
 ## My Work
 ### 1. Changes to HTML
@@ -49,7 +49,7 @@ I made the following changes to restructure the HTML:
 > - in the header> changed the original div> to a more practical nav> - also a semantic HTML element
 > - changed the arbitrary 'hero' class to a more meaningfull figure> - also a semantic HTML element, and used it as a placeholder for the background image
 > - properly implemented main> in the flow
-> - replaces div> to section> under main>
+> - replaced div> to section> under main>
 > - added alternative description to all image elements
 > - removed non-essential white space from paragraphs
 > - regrouped the original benefit segment under aside> which is also a semantic HTML element
@@ -70,5 +70,5 @@ I made the following changes to restructure the CSS:
 I used files and resources provided by BCS : GitLab repo UTOR-VIRT-FSF-PT-04-2023-U-LOLC
 
 #### Authors Notes:
-_This README and accompanying repo have been broiught to you by:_ <br>
+_This README and accompanying repo have been brought to you by:_ <br>
 © Sam Azimi - 2023 CodeCamp Studen.
